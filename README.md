@@ -444,11 +444,3 @@ Este projeto está sob licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para 
 - 🙏 Professor Denis Martins da PUC-Campinas
 
 ---
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/seu-usuario/bacias-pcj-monitoring?style=social)](https://github.com/seu-usuario/bacias-pcj-monitoring)
-[![Forks](https://img.shields.io/github/forks/seu-usuario/bacias-pcj-monitoring?style=social)](https://github.com/seu-usuario/bacias-pcj-monitoring/fork)
-[![Issues](https://img.shields.io/github/issues/seu-usuario/bacias-pcj-monitoring?style=social)](https://github.com/seu-usuario/bacias-pcj-monitoring/issues)
-
-</div>
