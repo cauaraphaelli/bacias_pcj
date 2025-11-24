@@ -433,59 +433,19 @@ Este projeto está sob licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para 
 
 | Desenvolvedor | RA | Função |
 |---|---|---|
-| **Cauã Cruz Bueno Raphaelli** | 22006631 | Arquiteto do Sistema |
-| **Gustavo Barbosa** | 21007307 | Engenheiro de Dados |
-| **Lucas Mauad Sant'Anna** | 22014191 | Engenheiro de ML |
-
----
-
-## 📞 Suporte & Contato
-
-- 📧 **Email**: [seu-email@universidade.edu.br](mailto:seu-email@universidade.edu.br)
-- 💬 **Issues**: [GitHub Issues](https://github.com/seu-usuario/bacias-pcj-monitoring/issues)
-- 📖 **Documentação**: [Wiki do Projeto](https://github.com/seu-usuario/bacias-pcj-monitoring/wiki)
-- 🐛 **Reportar Bug**: Use a [Issue Template](https://github.com/seu-usuario/bacias-pcj-monitoring/issues/new)
-
----
-
-## 🎓 Citação
-
-Se usar este projeto em pesquisa, cite como:
-
-```bibtex
-@software{raphaelli2025pcj,
-  author = {Raphaelli, Cauã C. B. and Barbosa, Gustavo and Sant'Anna, Lucas M.},
-  title = {Sistema de Monitoramento em Tempo Real das Bacias PCJ},
-  year = {2025},
-  url = {https://github.com/seu-usuario/bacias-pcj-monitoring}
-}
-```
-
----
-
-## 📊 Roadmap (Versões Futuras)
-
-- [ ] **v1.1**: Integração com dados de sensores hidrológicos
-- [ ] **v1.2**: Modelo preditivo (previsão de eventos 48-72h antes)
-- [ ] **v1.3**: Suporte a múltiplas bacias (Tietê, Paranapanema, Doce)
-- [ ] **v1.4**: Mobile app para alertas em tempo real
-- [ ] **v2.0**: Fine-tuning de LLM com histórico da Defesa Civil
-- [ ] **v2.1**: Integração com sistemas SCADA
+| **Cauã Cruz Bueno Raphaelli** | 22006631 | Líder e Desenvolvedor |
+| **Gustavo Barbosa** | 21007307 | Engenheiro de ML |
+| **Lucas Mauad Sant'Anna** | 22014191 | Engenheiro de dados |
 
 ---
 
 ## 🌟 Agradecimentos
 
-- 🙏 Google Cloud Platform pela infraestrutura
-- 🙏 Portal G1 pelos dados de notícias
-- 🙏 Defesa Civil PCJ pelo contexto operacional
-- 🙏 Comunidade open-source (Selenium, BeautifulSoup, Pandas)
+- 🙏 Professor Denis Martins da PUC-Campinas
 
 ---
 
 <div align="center">
-
-**Desenvolvido com ❤️ para proteger as bacias PCJ**
 
 [![Stars](https://img.shields.io/github/stars/seu-usuario/bacias-pcj-monitoring?style=social)](https://github.com/seu-usuario/bacias-pcj-monitoring)
 [![Forks](https://img.shields.io/github/forks/seu-usuario/bacias-pcj-monitoring?style=social)](https://github.com/seu-usuario/bacias-pcj-monitoring/fork)
